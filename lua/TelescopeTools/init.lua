@@ -1,3 +1,4 @@
+---@module 'TelescopeTools'
 local M = {}
 
 local function check_dependencies()
